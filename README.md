@@ -9,7 +9,7 @@ TODO: Delete this and the text above, and describe your gem
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'jquery_image_zoom'
+gem 'jquery_image_zoom', :git => "https://github.com/hsror-support/jquery_image_zoom"
 ```
 
 And then execute:
@@ -18,7 +18,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install jquery_image_zoom
+    $ gem install jquery_image_zoom -s https://github.com/hsror-support/jquery_image_zoom
 
 ## Usage
 
