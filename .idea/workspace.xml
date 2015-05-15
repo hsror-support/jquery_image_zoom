@@ -1,29 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca08bc49-9256-4aed-a9df-2489a9a2a367" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.rspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/console" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery_image_zoom.gemspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery_image_zoom.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/jquery_image_zoom_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/setup" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/spec_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery_image_zoom/version.rb" />
+    <list default="true" id="dd48a1af-7b08-4d26-865d-cacb03764e63" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/jquery_image_zoom.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.rspec" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/console" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/setup" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spec/jquery_image_zoom_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spec/spec_helper.rb" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.rakeTasks" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LICENSE.txt" afterPath="$PROJECT_DIR$/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rakefile" afterPath="$PROJECT_DIR$/Rakefile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jquery_image_zoom.gemspec" afterPath="$PROJECT_DIR$/jquery_image_zoom.gemspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/jquery_image_zoom.rb" afterPath="$PROJECT_DIR$/lib/jquery_image_zoom.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/jquery_image_zoom/railtie.rb" afterPath="$PROJECT_DIR$/lib/jquery_image_zoom/railtie.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/jquery_image_zoom/version.rb" afterPath="$PROJECT_DIR$/lib/jquery_image_zoom/version.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
-    <ignored path="jquery_image_zoom.iws" />
+    <ignored path="dharajoshi_first_gem.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="ca08bc49-9256-4aed-a9df-2489a9a2a367" time="1431665359292" ignored="false" />
-    <file path="/jquery_image_zoom.gemspec" changelist="ca08bc49-9256-4aed-a9df-2489a9a2a367" time="1431665377515" ignored="false" />
-    <file path="/jquery_image_zoom.rb" changelist="ca08bc49-9256-4aed-a9df-2489a9a2a367" time="1431665774881" ignored="false" />
-    <file path="/a.dummy" changelist="ca08bc49-9256-4aed-a9df-2489a9a2a367" time="1431665799926" ignored="false" />
+    <file path="/Dummy.txt" changelist="dd48a1af-7b08-4d26-865d-cacb03764e63" time="1431676542115" ignored="false" />
+    <file path="/dharajoshi_first_gem.gemspec" changelist="dd48a1af-7b08-4d26-865d-cacb03764e63" time="1430483199756" ignored="false" />
+    <file path="/test_helper.rb" changelist="dd48a1af-7b08-4d26-865d-cacb03764e63" time="1430483082244" ignored="false" />
+    <file path="/version_test.rb" changelist="dd48a1af-7b08-4d26-865d-cacb03764e63" time="1430484716754" ignored="false" />
+    <file path="/a.dummy" changelist="dd48a1af-7b08-4d26-865d-cacb03764e63" time="1431676443319" ignored="false" />
+    <file path="/railtie.rb" changelist="dd48a1af-7b08-4d26-865d-cacb03764e63" time="1430814765388" ignored="false" />
+    <file path="/dharajoshi_first_gem.rb" changelist="dd48a1af-7b08-4d26-865d-cacb03764e63" time="1430818745701" ignored="false" />
+    <file path="$PROJECT_DIR$/../../test_my_first_gem/Gemfile" changelist="dd48a1af-7b08-4d26-865d-cacb03764e63" time="1431671502923" ignored="false" />
+    <file path="$PROJECT_DIR$/../../test_my_first_gem/config/database.yml" changelist="dd48a1af-7b08-4d26-865d-cacb03764e63" time="1430720314201" ignored="false" />
+    <file path="/database.yml" changelist="dd48a1af-7b08-4d26-865d-cacb03764e63" time="1430720314201" ignored="false" />
+    <file path="$PROJECT_DIR$/../../test_my_first_gem/.rvmrc" changelist="dd48a1af-7b08-4d26-865d-cacb03764e63" time="1430725475244" ignored="false" />
+    <file path="$PROJECT_DIR$/../../um_shop/app/assets/javascripts/ember/routes/index.coffee" changelist="dd48a1af-7b08-4d26-865d-cacb03764e63" time="1430733682378" ignored="false" />
+    <file path="$PROJECT_DIR$/../../um_shop/app/assets/stylesheets/layout.sass" changelist="dd48a1af-7b08-4d26-865d-cacb03764e63" time="1430738219942" ignored="false" />
+    <file path="/layout.sass" changelist="dd48a1af-7b08-4d26-865d-cacb03764e63" time="1430738159702" ignored="false" />
+    <file path="$PROJECT_DIR$/../../um_shop/app/assets/javascripts/ember/routes/about-us.coffee" changelist="dd48a1af-7b08-4d26-865d-cacb03764e63" time="1430733691035" ignored="false" />
+    <file path="$PROJECT_DIR$/../../um_shop/app/assets/javascripts/ember/routes/products/browse.coffee" changelist="dd48a1af-7b08-4d26-865d-cacb03764e63" time="1430733731898" ignored="false" />
+    <file path="$PROJECT_DIR$/../../um_shop/app/assets/javascripts/ember/routes/products/highlights.coffee" changelist="dd48a1af-7b08-4d26-865d-cacb03764e63" time="1430733753353" ignored="false" />
+    <file path="/Gemfile" changelist="dd48a1af-7b08-4d26-865d-cacb03764e63" time="1430822299536" ignored="false" />
+    <file path="$PROJECT_DIR$/../../test_my_first_gem/Gemfile.lock" changelist="dd48a1af-7b08-4d26-865d-cacb03764e63" time="1430825864973" ignored="false" />
+    <file path="$PROJECT_DIR$/../../test_my_first_gem/app/views/site/index.html.erb" changelist="dd48a1af-7b08-4d26-865d-cacb03764e63" time="1430822788741" ignored="false" />
+    <file path="/index.html.erb" changelist="dd48a1af-7b08-4d26-865d-cacb03764e63" time="1430820695324" ignored="false" />
+    <file path="$PROJECT_DIR$/../../test_my_first_gem/config/routes.rb" changelist="dd48a1af-7b08-4d26-865d-cacb03764e63" time="1430817205845" ignored="false" />
+    <file path="/engine.rb" changelist="dd48a1af-7b08-4d26-865d-cacb03764e63" time="1431610806109" ignored="false" />
+    <file path="$PROJECT_DIR$/../../test_my_first_gem/app/assets/javascripts/application.js" changelist="dd48a1af-7b08-4d26-865d-cacb03764e63" time="1430822218839" ignored="false" />
+    <file path="/dharajoshi_first_gem_main.js" changelist="dd48a1af-7b08-4d26-865d-cacb03764e63" time="1430822192007" ignored="false" />
+    <file path="/application.js" changelist="dd48a1af-7b08-4d26-865d-cacb03764e63" time="1430822217064" ignored="false" />
+    <file path="$PROJECT_DIR$/../jquery-image-zoom/jquery-image-zoom.gemspec" changelist="dd48a1af-7b08-4d26-865d-cacb03764e63" time="1431609909348" ignored="false" />
+    <file path="/jquery-image-zoom.gemspec" changelist="dd48a1af-7b08-4d26-865d-cacb03764e63" time="1431609901423" ignored="false" />
+    <file path="$PROJECT_DIR$/../jquery_image_zoomer/lib/jquery_image_zoomer/engine.rb" changelist="dd48a1af-7b08-4d26-865d-cacb03764e63" time="1431610806109" ignored="false" />
+    <file path="$PROJECT_DIR$/../jquery_image_zoomer/lib/jquery_image_zoomer/railtie.rb" changelist="dd48a1af-7b08-4d26-865d-cacb03764e63" time="1431663970845" ignored="false" />
+    <file path="$PROJECT_DIR$/../jquery_image_zoomer/lib/jquery_image_zoomer.rb" changelist="dd48a1af-7b08-4d26-865d-cacb03764e63" time="1431611041896" ignored="false" />
+    <file path="/jquery_image_zoomer.rb" changelist="dd48a1af-7b08-4d26-865d-cacb03764e63" time="1431611041896" ignored="false" />
+    <file path="$PROJECT_DIR$/../jquery_image_zoomer/jquery_image_zoomer.gemspec" changelist="dd48a1af-7b08-4d26-865d-cacb03764e63" time="1431664923464" ignored="false" />
+    <file path="$PROJECT_DIR$/../jquery_image_zoomer/Gemfile.lock" changelist="dd48a1af-7b08-4d26-865d-cacb03764e63" time="1431665229788" ignored="false" />
+    <file path="$PROJECT_DIR$/../jquery_image_zoomer/lib/jquery_image_zoomer/version.rb" changelist="dd48a1af-7b08-4d26-865d-cacb03764e63" time="1431665162720" ignored="false" />
+    <file path="/jquery_image_zoomer.gemspec" changelist="dd48a1af-7b08-4d26-865d-cacb03764e63" time="1431664915440" ignored="false" />
+    <file path="/jquery_image_zoom.gemspec" changelist="dd48a1af-7b08-4d26-865d-cacb03764e63" time="1431676381017" ignored="false" />
+    <file path="/jquery_image_zoom.rb" changelist="dd48a1af-7b08-4d26-865d-cacb03764e63" time="1431665774881" ignored="false" />
+    <file path="/LICENSE.txt" changelist="dd48a1af-7b08-4d26-865d-cacb03764e63" time="1431675484671" ignored="false" />
+    <file path="/temp.rb" changelist="dd48a1af-7b08-4d26-865d-cacb03764e63" time="1431675830910" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,10 +80,20 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="jquery_image_zoom" />
+    <favorites_list name="dharajoshi_first_gem" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="jquery_image_zoom.gemspec" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jquery_image_zoom.gemspec">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="38" selection-start="817" selection-end="817" vertical-scroll-proportion="0.5277778">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -60,10 +111,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/jquery_image_zoom.gemspec" />
-        <option value="$PROJECT_DIR$/lib/jquery_image_zoom/engine.rb" />
-        <option value="$PROJECT_DIR$/lib/jquery_image_zoom/railtie.rb" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/dharajoshi_first_gem_main.js" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/dharajoshi_first_gem.js" />
+        <option value="$PROJECT_DIR$/lib/dharajoshi_first_gem/version.rb" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Rakefile" />
+        <option value="$PROJECT_DIR$/LICENSE.txt" />
+        <option value="$PROJECT_DIR$/Gemfile.lock" />
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/test/test_helper.rb" />
+        <option value="$PROJECT_DIR$/test/lib/dharajoshi_first_gem/version_test.rb" />
         <option value="$PROJECT_DIR$/lib/jquery_image_zoom.rb" />
+        <option value="$PROJECT_DIR$/lib/jquery_image_zoom/version.rb" />
+        <option value="$PROJECT_DIR$/lib/jquery_image_zoom/railtie.rb" />
+        <option value="$PROJECT_DIR$/lib/jquery_image_zoom/engine.rb" />
+        <option value="$PROJECT_DIR$/jquery_image_zoom.gemspec" />
       </list>
     </option>
   </component>
@@ -104,46 +167,50 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="jquery_image_zoom" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jquery_image_zoom" />
+              <option name="myItemId" value="dharajoshi_first_gem" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="jquery_image_zoom" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jquery_image_zoom" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="jquery_image_zoom" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemId" value="rake (v10.4.2, RVM: ruby-1.9.3-p385) [gem]" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
+              <option name="myItemId" value="rakelib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="jquery_image_zoom" />
+              <option name="myItemId" value="dharajoshi_first_gem" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="jquery_image_zoom" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemId" value="rake (v10.4.2, RVM: ruby-1.9.3-p385) [gem]" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dharajoshi_first_gem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dharajoshi_first_gem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="jquery_image_zoom" />
@@ -152,7 +219,7 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="jquery_image_zoom" />
+              <option name="myItemId" value="dharajoshi_first_gem" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -179,40 +246,118 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RubyRunConfigurationType" factoryName="Ruby">
+      <module name="" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ca08bc49-9256-4aed-a9df-2489a9a2a367" name="Default" comment="" />
-      <created>1431665358933</created>
-      <updated>1431665358933</updated>
+      <changelist id="dd48a1af-7b08-4d26-865d-cacb03764e63" name="Default" comment="" />
+      <created>1430482394243</created>
+      <updated>1430482394243</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32866043" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24940048" sideWeight="0.6713396" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24940048" sideWeight="0.6713396" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25579536" sideWeight="0.6713396" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32866043" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32866043" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -276,60 +421,109 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/jquery_image_zoom_main.js">
+    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="16" column="7" selection-start="199" selection-end="199" vertical-scroll-proportion="0.44444445">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jquery_image_zoom.gemspec">
+    <entry file="file://$PROJECT_DIR$/LICENSE.txt">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="17" selection-start="397" selection-end="397" vertical-scroll-proportion="0.0">
+        <state line="20" column="28" selection-start="1081" selection-end="1081" vertical-scroll-proportion="0.5831904">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/jquery_image_zoom/version.rb">
+    <entry file="file://$PROJECT_DIR$/Rakefile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="0" column="35" selection-start="27" selection-end="27" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="26" selection-start="102" selection-end="102" vertical-scroll-proportion="0.11111111">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="5" selection-start="86" selection-end="86" vertical-scroll-proportion="0.22222222" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="38" selection-start="90" selection-end="90" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/jquery_image_zoom.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="15" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0">
+        <state line="4" column="22" selection-start="130" selection-end="130" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/jquery_image_zoom_initializer.js">
+    <entry file="file://$PROJECT_DIR$/lib/jquery_image_zoom/version.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="16" selection-start="91" selection-end="91" vertical-scroll-proportion="0.18085106">
+        <state line="0" column="22" selection-start="22" selection-end="22" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jquery_image_zoom/engine.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="22" selection-start="22" selection-end="22" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/jquery_image_zoom_main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="9" selection-start="9" selection-end="9" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/jquery_image_zoom.js">
+    <entry file="file://$PROJECT_DIR$/test/lib/jquery_image_zoom/version_test.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="25" selection-start="0" selection-end="15" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1430825279000" expanded="false" signature="-1:-1" placeholder="..." />
-          </folding>
+        <state line="4" column="12" selection-start="104" selection-end="104" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p385/gems/rake-10.4.2/rakelib/test_times.rake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p385/gems/rake-10.4.2/lib/rake.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="48" selection-start="772" selection-end="772" vertical-scroll-proportion="0.40545145">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p385/gems/rake-10.4.2/rakelib/publish.rake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/jquery_image_zoom/railtie.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="30" selection-start="256" selection-end="256" vertical-scroll-proportion="0.42394015">
+        <state line="6" column="25" selection-start="167" selection-end="167" vertical-scroll-proportion="0.16666667">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/jquery_image_zoom/engine.rb">
+    <entry file="file://$PROJECT_DIR$/jquery_image_zoom.gemspec">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="22" selection-start="22" selection-end="22" vertical-scroll-proportion="0.0">
+        <state line="19" column="38" selection-start="817" selection-end="817" vertical-scroll-proportion="0.5277778">
           <folding />
         </state>
       </provider>

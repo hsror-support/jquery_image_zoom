@@ -5,7 +5,7 @@ module LogStasher
     config.jquery_image_zoom = ActiveSupport::OrderedOptions.new
 
     initializer :jquery_image_zoom do |app|
-      puts 'initializer in jquery_image_zoom module'
+      puts 'initializer in module'
     end
   end
 end
